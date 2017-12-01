@@ -1,0 +1,39 @@
+body{
+    font-family: "Arial";
+    color: #2333;
+    background-color: #233;
+    margin: 1em 10%;
+}
+h1{
+    color: #2333;
+    background-color: transparent;
+}
+a{
+    color: #c60;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+}
+ul{
+    padding: 0;
+}
+li{
+    float: left;
+    padding: 1em;
+    
+}
+img{
+    display: block;
+    clear: both;
+    width: 800px;
+    height: 600px;
+}
+#gan{
+    list-style: none;
+}
+
+#gan li a img{
+    border: 0;
+    width: 100px;
+    height: 70px;
+}
